@@ -1,6 +1,6 @@
-<!-- Header Banner -->
+<!-- Header Banner (custom, with photo) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=220&section=header&text=Sariful%20Islam%20Rana&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Deep%20Learning%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="./assets/banner.png" width="100%" alt="Header Banner"/>
 </p>
 
 <!-- Typing animation -->
@@ -10,12 +10,6 @@
 
 <h1 align="center">Hi 👋, I'm Sariful Islam Rana</h1>
 <h3 align="center">CSE Undergraduate | Full Stack Developer | Deep Learning Enthusiast, Bangladesh 🇧🇩</h3>
-
-<p align="center">
-  <a href="mailto:sarifulislam536@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Collaborate!-8D58BF?style=for-the-badge&logoColor=white" alt="Let's Collaborate"/>
-  </a>
-</p>
 
 ---
 
