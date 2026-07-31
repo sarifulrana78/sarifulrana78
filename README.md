@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sariful Islam Rana</h1>
-<h3 align="center">CSE Undergraduate | Full Stack Developer | Deep Learning Enthusiast, Bangladesh 🇧🇩</h3>
+<h3 align="center">CSE Undergraduate | Full Stack Developer | JavaScript Enthusiast, Bangladesh 🇧🇩</h3>
 
 ---
 
