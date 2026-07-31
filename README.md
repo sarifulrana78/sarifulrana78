@@ -1,18 +1,28 @@
-<!-- Banner Image Section -->
+<!-- Header Dynamic Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarifulrana78/sarifulrana78/main/profile.jpg" alt="Sariful Islam Rana Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Sariful%20Islam%20Rana&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+</p>
+
+<!-- Typing Animation Subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;Turning+ideas+into+scalable+web+apps;Deep+Learning+%26+Web+Enthusiast" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sariful Islam Rana</h1>
-<h3 align="center">Passionate Full Stack Web Developer</h3>
+<h3 align="center">Passionate Full Stack Web Developer from Bangladesh 🇧🇩</h3>
 
-<!-- About Me Bullet Points -->
+---
+
+### 👨‍💻 ABOUT ME:
+
 - 🙋‍♂️ Hi, I'm **@sarifulrana78**
-- 🔭 I'm currently working on **A Multimodal Deep Learning Framework (Facial Emotion Recognition + Lip Reading) — Capstone Project, ULAB**
-- 💻 Using **React.js, Node.js, Express.js, MongoDB,** and **Tailwind CSS** for full-stack web development.
-- ⚡ I'm currently learning **REST API Development, TypeScript,** and Advanced Web Architecture.
-- 💬 Ask me about **Full-Stack Web Development (JavaScript, PHP, Python, React, Node, Express, MongoDB)**.
-- 📫 Feel free to reach me out at **sarifulislam536@gmail.com**
+- 🎓 Studying **Computer Science & Engineering (CSE)** at **University of Liberal Arts Bangladesh (ULAB)**.
+- 🔭 Currently working on **A Multimodal Deep Learning Framework (Facial Emotion Recognition + Lip Reading) — Capstone Project, ULAB**.
+- 💻 Tech Stack: **React.js, Node.js, Express.js, MongoDB, TypeScript, PHP, Python, Tailwind CSS**.
+- 🌱 Currently learning **REST API Architecture, Microservices, & Advanced Web Security**.
+- 👯 Looking to collaborate on **Open Source Web Development & Full-Stack Projects**.
+- 💬 Ask me about **JavaScript, TypeScript, React, Node, Express, MongoDB, & Web Architecture**.
+- 📫 Feel free to reach out: **sarifulislam536@gmail.com**
 
 ---
 
@@ -50,7 +60,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
-#### JavaScript Frameworks & Libraries:
+#### JavaScript Frameworks & Backend:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -63,7 +73,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-#### Tools & Technologies:
+#### Tools & Platforms:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
@@ -73,14 +83,12 @@
 
 ---
 
-### 📊 GitHub Statistics:
+### 📊 GITHUB STATISTICS:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarifulrana78&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarifulrana78&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
-
-### 🔥 Streak Stats:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarifulrana78&theme=radial" alt="GitHub Streak" />
@@ -88,7 +96,7 @@
 
 ---
 
-### 🛠️ RANDOM DEV QUOTE:
+### 💡 RANDOM DEV QUOTE:
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radial" alt="Random Dev Quote" />
